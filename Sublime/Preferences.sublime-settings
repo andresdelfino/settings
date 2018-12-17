@@ -1,1 +1,32 @@
-/home/adelfino/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+{
+	"animation_enabled": false,
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_options":
+	[
+		"no_bold",
+		"no_italic"
+	],
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"match_brackets_angle": true,
+	"rulers":
+	[
+		72,
+		79,
+		80,
+		99
+	],
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": false,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": false
+}
