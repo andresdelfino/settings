@@ -1,0 +1,23 @@
+[user]
+    name = Andrés Delfino
+    email = adelfino@gmail.com
+
+[diff]
+    tool = kdiff3
+
+[difftool "kdiff3"]
+    path = /usr/bin/kdiff3
+    keepBackup = false
+    prompt = false
+
+[merge]
+    renamelimit = 2140 
+    tool = kdiff3
+
+[mergetool "kdiff3"]
+    path = /usr/bin/kdiff3
+    cmd = kdiff3 --qall $BASE $LOCAL $REMOTE -o $MERGED
+    keepBackup = false
+
+[pager]
+    branch = false
