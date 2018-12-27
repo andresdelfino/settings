@@ -19,7 +19,6 @@
 	[
 		72, // docstrings/comments PEP8
 		79, // max standard PEP8
-		80, // https://devguide.python.org/documenting/
 		99 // max PEP8
 	],
 	"scroll_past_end": false,
